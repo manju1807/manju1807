@@ -1,4 +1,5 @@
-![Header](./1.png)
+![Header](./github-header-image.png)
+<h1 align="center">Hi 👋, I'm Manjunath R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400"  src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
 
