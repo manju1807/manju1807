@@ -1,5 +1,5 @@
-![](https://github.com/manju1807/image3.png) 
-# 💫 About Me:
+[![Banner](https://github.com/manju1807/manju1807/blob/main/image3.png)](https://github.com/manju1807/manju1807)
+
     🔭 I’m currently working on javascript<br><br>    
     🌱 I’m currently learning Vanilla JS and ReactJS<br>
 
