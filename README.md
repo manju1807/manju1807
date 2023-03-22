@@ -1,8 +1,8 @@
 [![Banner](https://github.com/manju1807/manju1807/blob/main/profile1.png)](https://github.com/manju1807/manju1807)
 ## An Front End Developer in making!
     
-    🔭 I’m currently working on javascript  
-    🌱 I’m currently learning Vanilla JS and ReactJS
+    🔭 I’m currently working on javascript.  
+    🌱 I’m currently learning Vanilla JS and ReactJS.
 
 
 ## 🌐 Socials:
