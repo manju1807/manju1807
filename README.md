@@ -1,5 +1,5 @@
 [![Banner](https://github.com/manju1807/manju1807/blob/main/profile1.png)](https://github.com/manju1807/manju1807)
-## A Full Stack Developer in the Making!
+## A Full Stack Developer!
     
     🔭 I’m currently working on javascript.  
     🌱 I’m currently learning Vanilla JS and ReactJS.
