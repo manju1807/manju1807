@@ -2,9 +2,9 @@
 
 I'm [**Manjunath**](https://myvoyage-v1.vercel.app/), a software engineer based in Bangalore.
 
-I enjoy combining my technical expertise with design to create beautiful and efficient applications. My goal is to develop scalable software solutions that offer engaging and seamless user experiences.
+I love blending my technical skills with design to craft elegant and efficient applications. My aim is to build scalable software solutions that deliver both engaging and seamless user experiences.
 
-Outside of work, I’m passionate about expanding my knowledge in the tech world and sports(cricket). I also work on several side projects (most of them are in private repositories).
+Beyond work, I’m passionate about deepening my knowledge in both the tech world and sports, especially cricket. I also enjoy working on various side projects, most of which are in private repositories.
 
 #### Fun Facts:
 - I don't like coffee and hence I'm not addicted to coffee.
