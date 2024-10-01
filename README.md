@@ -8,6 +8,5 @@ Beyond work, I’m passionate about deepening my knowledge in both the tech worl
 
 #### Fun Facts:
 - I don't like coffee and hence I'm not addicted to coffee.
-- Ben 10 is my favorite anime.
 - MCU is ❤️ 
 - I love using Nextjs x Typescript after switching from Reactjs x Javascript.
