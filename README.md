@@ -104,17 +104,6 @@ Ready to build something amazing together? 🚀💻✨
   - CGPA: 7.88/10
   - Developers Core Committee Member & NSS Student Volunteer
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Multiflix](https://github-readme-stats.vercel.app/api/pin/?username=manju1807&repo=Multiflix&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true)](https://github.com/manju1807/Multiflix)
-[![Advanced Weather App](https://github-readme-stats.vercel.app/api/pin/?username=manju1807&repo=Advanced-weather-app-nextjs&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true)](https://github.com/manju1807/Advanced-weather-app-nextjs)
-[![SpeedType](https://github-readme-stats.vercel.app/api/pin/?username=manju1807&repo=SpeedType&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true)](https://github.com/manju1807/SpeedType)
-[![TeamPulse](https://github-readme-stats.vercel.app/api/pin/?username=manju1807&repo=TeamPulse&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true)](https://github.com/manju1807/TeamPulse)
-
-</div>
-
 ## 🏆 Certifications & Achievements
 - Microsoft Learn Student Ambassador
 - Frontend Developer (React) Certification
